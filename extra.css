@@ -33,3 +33,7 @@ html {
     color: rgb(255, 255, 255);
     background: rgb(24, 144, 255);
 }
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
